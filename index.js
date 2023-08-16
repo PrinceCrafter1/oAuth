@@ -48,7 +48,7 @@ async function getAccessTokenAndRefreshToken(code) {
 
     const config = {
         headers: {
-            'Content-Type': 'application/Microsoft'
+            'Content-Type': 'application/Microsoft.'
         }
     }
     let data = {
