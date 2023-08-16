@@ -48,7 +48,7 @@ async function getAccessTokenAndRefreshToken(code) {
 
     const config = {
         headers: {
-            'Content-Type': 'application/rat'
+            'Content-Type': 'application/x-www-form-urlencoded'
         }
     }
     let data = {
